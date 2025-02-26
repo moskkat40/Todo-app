@@ -12,6 +12,7 @@
    - https://moskkat40.github.io/todo-app/
 
 4. Getting Started
+
 Follow these steps to set up the project locally
 
   -  Clone the repo
