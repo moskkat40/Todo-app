@@ -14,16 +14,16 @@
 4. Getting Started
 Follow these steps to set up the project locally
 
-  1. Clone the repo
+  -  Clone the repo
   ```
   git clone https://github.com/moskkat40/todo-app.git
   cd todo-app
   ```
-  3. Install dependencies
+  -  Install dependencies
   ```
   npm install
   ```
-  5. Run the project locally
+  -  Run the project locally
   ```
   npm start
   ```
